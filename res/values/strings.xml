@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">校园无忧</string>
+    
+   	<string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="left_and_right">Left and Right</string>
+
+</resources>
